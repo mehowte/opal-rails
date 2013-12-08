@@ -1,6 +1,7 @@
 require 'rails'
 require 'opal/sprockets/server'
 require 'opal/sprockets/processor'
+require 'opal/sprockets/erb'
 
 module Opal
   module Rails
